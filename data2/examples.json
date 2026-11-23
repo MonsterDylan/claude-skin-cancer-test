@@ -1,0 +1,142 @@
+[
+  {
+    "case": "calib_018",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 60,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_024",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 70,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_006",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 60,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_030",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 70,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_070",
+    "label": "melanoma",
+    "diagnosis": "Melanoma in situ",
+    "opus_cold_prob": 55,
+    "was_mistake": false
+  },
+  {
+    "case": "calib_049",
+    "label": "melanoma",
+    "diagnosis": "Melanoma in situ",
+    "opus_cold_prob": 55,
+    "was_mistake": false
+  },
+  {
+    "case": "calib_028",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 80,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_072",
+    "label": "melanoma",
+    "diagnosis": "Melanoma Invasive",
+    "opus_cold_prob": 35,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_015",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 60,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_047",
+    "label": "melanoma",
+    "diagnosis": "Melanoma Invasive",
+    "opus_cold_prob": 30,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_074",
+    "label": "melanoma",
+    "diagnosis": "Melanoma Invasive",
+    "opus_cold_prob": 58,
+    "was_mistake": false
+  },
+  {
+    "case": "calib_075",
+    "label": "melanoma",
+    "diagnosis": "Melanoma in situ",
+    "opus_cold_prob": 15,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_023",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 60,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_063",
+    "label": "melanoma",
+    "diagnosis": "Melanoma in situ",
+    "opus_cold_prob": 58,
+    "was_mistake": false
+  },
+  {
+    "case": "calib_009",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 60,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_057",
+    "label": "melanoma",
+    "diagnosis": "Melanoma Invasive",
+    "opus_cold_prob": 25,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_056",
+    "label": "melanoma",
+    "diagnosis": "Melanoma Invasive",
+    "opus_cold_prob": 30,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_001",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 62,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_014",
+    "label": "melanoma",
+    "diagnosis": "Melanoma in situ",
+    "opus_cold_prob": 12,
+    "was_mistake": true
+  },
+  {
+    "case": "calib_007",
+    "label": "benign",
+    "diagnosis": "Nevus",
+    "opus_cold_prob": 75,
+    "was_mistake": true
+  }
+]

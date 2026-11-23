@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+data/images/
+data/model_input/
+data2/*/raw/
+data2/*/model_input/
+.DS_Store

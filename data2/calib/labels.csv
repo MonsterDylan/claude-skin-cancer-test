@@ -1,0 +1,81 @@
+case,label,isic_id,diagnosis,age,sex,site,license,attribution
+calib_001,benign,ISIC_0011208,Nevus,30,female,Trunk,CC-0,Anonymous
+calib_002,benign,ISIC_0011345,Nevus,60,male,Trunk,CC-0,Anonymous
+calib_003,benign,ISIC_0010040,Nevus,45,male,Trunk,CC-0,Anonymous
+calib_004,melanoma,ISIC_0023765,Melanoma in situ,45,male,Upper extremity,CC-0,Anonymous
+calib_005,benign,ISIC_0010683,Nevus,40,female,Upper extremity,CC-0,Anonymous
+calib_006,benign,ISIC_0013233,Nevus,80,male,Upper extremity,CC-0,Anonymous
+calib_007,benign,ISIC_0010952,Nevus,65,female,Upper extremity,CC-0,Anonymous
+calib_008,melanoma,ISIC_3473381,Melanoma in situ,,,,CC-BY,Imperial College London
+calib_009,benign,ISIC_0011290,Nevus,40,male,Trunk,CC-0,Anonymous
+calib_010,benign,ISIC_0011440,Nevus,85,female,Lower extremity,CC-0,Anonymous
+calib_011,benign,ISIC_0014117,Nevus,45,female,Lower extremity,CC-0,Anonymous
+calib_012,benign,ISIC_0011143,Nevus,30,male,Upper extremity,CC-0,Anonymous
+calib_013,melanoma,ISIC_0022013,Melanoma in situ,80,male,Trunk,CC-0,Anonymous
+calib_014,melanoma,ISIC_0023459,Melanoma in situ,35,female,Upper extremity,CC-0,Anonymous
+calib_015,benign,ISIC_0012563,Nevus,60,female,Trunk,CC-0,Anonymous
+calib_016,benign,ISIC_0014039,Nevus,40,female,Head and neck,CC-0,Anonymous
+calib_017,melanoma,ISIC_6801081,Melanoma in situ,70,female,Head and neck,CC-BY-NC,MILK study team
+calib_018,benign,ISIC_0010858,Nevus,30,female,Head and neck,CC-0,Anonymous
+calib_019,melanoma,ISIC_0010181,Melanoma in situ,80,male,Head and neck,CC-0,Anonymous
+calib_020,melanoma,ISIC_2415589,Melanoma Invasive,80,female,Head and neck,CC-BY-NC,MILK study team
+calib_021,melanoma,ISIC_6164551,Melanoma Invasive,25,female,Lower extremity,CC-BY-NC,MILK study team
+calib_022,melanoma,ISIC_0014173,Melanoma Invasive,55,male,Trunk,CC-0,Anonymous
+calib_023,benign,ISIC_0013568,Nevus,80,female,Trunk,CC-0,Anonymous
+calib_024,benign,ISIC_0012589,Nevus,70,male,Head and neck,CC-0,Anonymous
+calib_025,melanoma,ISIC_6195452,Melanoma Invasive,80,female,Trunk,CC-BY-NC,MILK study team
+calib_026,benign,ISIC_0012085,Nevus,25,male,Trunk,CC-0,Anonymous
+calib_027,melanoma,ISIC_0013258,Melanoma Invasive,65,male,Trunk,CC-0,Anonymous
+calib_028,benign,ISIC_0011254,Nevus,35,female,Trunk,CC-0,Anonymous
+calib_029,melanoma,ISIC_5588496,Melanoma in situ,55,male,Trunk,CC-0,Memorial Sloan Kettering Cancer Center
+calib_030,benign,ISIC_0012053,Nevus,20,female,Upper extremity,CC-0,Anonymous
+calib_031,melanoma,ISIC_1490894,Melanoma Invasive,50,male,Trunk,CC-BY-NC,MILK study team
+calib_032,benign,ISIC_0011570,Nevus,50,female,Lower extremity,CC-0,Anonymous
+calib_033,benign,ISIC_0010592,Nevus,70,male,Trunk,CC-0,Anonymous
+calib_034,melanoma,ISIC_0010355,Melanoma Invasive,85,female,Head and neck,CC-0,Anonymous
+calib_035,melanoma,ISIC_0023639,Melanoma in situ,65,male,Upper extremity,CC-0,Anonymous
+calib_036,benign,ISIC_0010408,Nevus,50,male,Upper extremity,CC-0,Anonymous
+calib_037,melanoma,ISIC_9556334,Melanoma Invasive,45,male,Upper extremity,CC-BY,Memorial Sloan Kettering Cancer Center
+calib_038,melanoma,ISIC_0023706,Melanoma Invasive,45,male,Upper extremity,CC-0,Anonymous
+calib_039,benign,ISIC_0011215,Nevus,20,female,Upper extremity,CC-0,Anonymous
+calib_040,melanoma,ISIC_0009908,Melanoma in situ,80,male,Head and neck,CC-0,Anonymous
+calib_041,benign,ISIC_0012699,Nevus,25,male,Trunk,CC-0,Anonymous
+calib_042,benign,ISIC_0012944,Nevus,40,male,Trunk,CC-0,Anonymous
+calib_043,benign,ISIC_0010186,Nevus,55,female,Lower extremity,CC-0,Anonymous
+calib_044,benign,ISIC_0011999,Nevus,35,male,Head and neck,CC-0,Anonymous
+calib_045,benign,ISIC_0013298,Nevus,35,female,Trunk,CC-0,Anonymous
+calib_046,benign,ISIC_0011362,Nevus,40,female,Upper extremity,CC-0,Anonymous
+calib_047,melanoma,ISIC_6541615,Melanoma Invasive,50,male,Trunk,CC-BY,Memorial Sloan Kettering Cancer Center
+calib_048,melanoma,ISIC_0013617,Melanoma in situ,60,male,Trunk,CC-0,Anonymous
+calib_049,melanoma,ISIC_0014062,Melanoma in situ,60,female,Head and neck,CC-0,Anonymous
+calib_050,benign,ISIC_0011805,Nevus,85,female,Upper extremity,CC-0,Anonymous
+calib_051,benign,ISIC_0012654,Nevus,30,female,Lower extremity,CC-0,Anonymous
+calib_052,benign,ISIC_0010351,Nevus,25,female,Head and neck,CC-0,Anonymous
+calib_053,melanoma,ISIC_7808642,Melanoma Invasive,30,male,Trunk,CC-BY-NC,MILK study team
+calib_054,benign,ISIC_0011784,Nevus,60,female,Trunk,CC-0,Anonymous
+calib_055,melanoma,ISIC_0046315,Melanoma Invasive,,,,CC-BY,Anonymous
+calib_056,melanoma,ISIC_7560517,Melanoma Invasive,,,,CC-BY-NC,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC"
+calib_057,melanoma,ISIC_3084312,Melanoma Invasive,75,female,Lower extremity,CC-BY-NC,"ViDIR Group, Department of Dermatology, Medical University of Vienna"
+calib_058,melanoma,ISIC_0010441,Melanoma Invasive,65,male,Head and neck,CC-0,Anonymous
+calib_059,benign,ISIC_0013011,Nevus,45,male,Trunk,CC-0,Anonymous
+calib_060,melanoma,ISIC_1970988,Melanoma Invasive,80,male,Trunk,CC-BY-NC,MILK study team
+calib_061,benign,ISIC_0011985,Nevus,35,female,Lower extremity,CC-0,Anonymous
+calib_062,benign,ISIC_0012626,Nevus,40,female,Upper extremity,CC-0,Anonymous
+calib_063,melanoma,ISIC_0014187,Melanoma in situ,80,female,Head and neck,CC-0,Anonymous
+calib_064,melanoma,ISIC_0011772,Melanoma in situ,65,male,Head and neck,CC-0,Anonymous
+calib_065,benign,ISIC_0014114,Nevus,40,male,Trunk,CC-0,Anonymous
+calib_066,melanoma,ISIC_0013865,Melanoma in situ,45,female,Lower extremity,CC-0,Anonymous
+calib_067,benign,ISIC_0009936,Nevus,30,female,Trunk,CC-0,Anonymous
+calib_068,benign,ISIC_0010114,Nevus,60,male,Trunk,CC-0,Anonymous
+calib_069,melanoma,ISIC_0000308,Melanoma Invasive,50,female,Lower extremity,CC-0,Anonymous
+calib_070,melanoma,ISIC_2128061,Melanoma in situ,80,male,Lower extremity,CC-BY,Memorial Sloan Kettering Cancer Center
+calib_071,benign,ISIC_0010569,Nevus,40,male,Head and neck,CC-0,Anonymous
+calib_072,melanoma,ISIC_3253484,Melanoma Invasive,85,female,Trunk,CC-BY,Memorial Sloan Kettering Cancer Center
+calib_073,melanoma,ISIC_0023164,Melanoma in situ,85,male,Trunk,CC-0,Anonymous
+calib_074,melanoma,ISIC_0014525,Melanoma Invasive,75,male,Upper extremity,CC-0,Anonymous
+calib_075,melanoma,ISIC_1124434,Melanoma in situ,50,female,Lower extremity,CC-BY,Memorial Sloan Kettering Cancer Center
+calib_076,melanoma,ISIC_2438481,Melanoma in situ,60,female,Lower extremity,CC-BY,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris"
+calib_077,melanoma,ISIC_5383160,Melanoma in situ,55,female,Upper extremity,CC-BY-NC,MILK study team
+calib_078,melanoma,ISIC_9182531,Melanoma in situ,70,male,Trunk,CC-BY-NC,MILK study team
+calib_079,benign,ISIC_0011212,Nevus,45,female,Trunk,CC-0,Anonymous
+calib_080,melanoma,ISIC_0012629,Melanoma Invasive,35,female,Upper extremity,CC-0,Anonymous

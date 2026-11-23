@@ -1,0 +1,56 @@
+{
+  "round_a_cold": {
+    "answered": 200,
+    "refused": 0,
+    "errors": 0,
+    "caught": 80,
+    "missed": 20,
+    "cleared": 59,
+    "false_alarms": 41,
+    "accuracy": 0.695,
+    "sensitivity": 0.8,
+    "specificity": 0.59,
+    "auc": 0.769,
+    "spec_at_derm_sensitivity": {
+      "157 dermatologists (": {
+        "spec": 0.59,
+        "derm_spec": 0.6
+      },
+      "58 dermatologists (H": {
+        "spec": 0.45,
+        "derm_spec": 0.713
+      }
+    },
+    "cost_usd": 2.85,
+    "cache_read_tokens": 0
+  },
+  "round_b_with_examples": {
+    "answered": 200,
+    "refused": 0,
+    "errors": 0,
+    "caught": 93,
+    "missed": 7,
+    "cleared": 52,
+    "false_alarms": 48,
+    "accuracy": 0.725,
+    "sensitivity": 0.93,
+    "specificity": 0.52,
+    "auc": 0.844,
+    "spec_at_derm_sensitivity": {
+      "157 dermatologists (": {
+        "spec": 0.7,
+        "derm_spec": 0.6
+      },
+      "58 dermatologists (H": {
+        "spec": 0.59,
+        "derm_spec": 0.713
+      }
+    },
+    "cost_usd": 4.6,
+    "cache_read_tokens": 9056490
+  },
+  "changed_answers": {
+    "fixed": 21,
+    "broke": 15
+  }
+}
